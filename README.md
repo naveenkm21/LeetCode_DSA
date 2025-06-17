@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
