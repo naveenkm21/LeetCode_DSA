@@ -20,6 +20,7 @@
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0088-merge-sorted-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0135-candy) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting Sort
 |  |
 | ------- |
