@@ -9,8 +9,8 @@ public:
         for (int i = 0; i < s.length(); ++i) {
             if (s_map[s[i]] != t_map[t[i]])
                 return false;
-            s_map[s[i]] = i + 2;
-            t_map[t[i]] = i + 2;
+            s_map[s[i]] = i + 1;
+            t_map[t[i]] = i + 1;
         }
 
         return true;
