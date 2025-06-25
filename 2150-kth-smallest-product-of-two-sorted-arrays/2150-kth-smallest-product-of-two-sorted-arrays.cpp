@@ -1,35 +1,34 @@
 class Solution {
 public:
-    long long countLessOrEqual(const vector<int>& nums1, const vector<int>& nums2, long long x) {
+    long long countPairs(const vector<int>& A, const vector<int>& B, long long x) {
         long long count = 0;
-        int m = nums2.size();
+        int m = B.size();
 
-        for (int a : nums1) {
+        for (int a : A) {
             if (a > 0) {
-                // nums2[j] <= x / a
+                // b <= x / a
                 int l = 0, r = m - 1;
                 while (l <= r) {
                     int mid = l + (r - l) / 2;
-                    if ((long long)a * nums2[mid] <= x)
+                    if ((long long)a * B[mid] <= x)
                         l = mid + 1;
                     else
                         r = mid - 1;
                 }
                 count += l;
             } else if (a < 0) {
-                // nums2[j] >= ceil(x / a)
+                // b >= ceil(x / a)
                 int l = 0, r = m - 1;
                 while (l <= r) {
                     int mid = l + (r - l) / 2;
-                    if ((long long)a * nums2[mid] <= x)
+                    if ((long long)a * B[mid] <= x)
                         r = mid - 1;
                     else
                         l = mid + 1;
                 }
                 count += m - l;
             } else {
-                if (x >= 0)
-                    count += m;
+                if (x >= 0) count += m;
             }
         }
         return count;
@@ -39,14 +38,14 @@ public:
         sort(nums1.begin(), nums1.end());
         sort(nums2.begin(), nums2.end());
 
-        long long left = -1e10, right = 1e10;
-        while (left < right) {
-            long long mid = left + (right - left) / 2;
-            if (countLessOrEqual(nums1, nums2, mid) < k)
-                left = mid + 1;
+        long long lo = -1e10, hi = 1e10;
+        while (lo < hi) {
+            long long mid = lo + (hi - lo) / 2;
+            if (countPairs(nums1, nums2, mid) < k)
+                lo = mid + 1;
             else
-                right = mid;
+                hi = mid;
         }
-        return left;
+        return lo;
     }
 };
