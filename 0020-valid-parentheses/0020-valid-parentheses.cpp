@@ -1,20 +1,25 @@
 class Solution {
-public:
-    bool isValid(string s) {
-        stack<char> stk;
-        for (char ch : s) {
-            if (ch == '(' || ch == '[' || ch == '{') {
-                stk.push(ch);
-            } else {
-                if (stk.empty()) return false;
-                char top = stk.top(); stk.pop();
-                if ((ch == ')' && top != '(') ||
-                    (ch == ']' && top != '[') ||
-                    (ch == '}' && top != '{')) {
-                    return false;
-                }
-            }
-        }
-        return stk.empty();
-    }
+ public:
+  bool isValid(string s) {
+    stack<char> stack;
+
+    for (const char c : s)
+      if (c == '(')
+        stack.push(')');
+      else if (c == '{')
+        stack.push('}');
+      else if (c == '[')
+        stack.push(']');
+      else if (stack.empty() || pop(stack) != c)
+        return false;
+
+    return stack.empty();
+  }
+
+ private:
+  int pop(stack<char>& stack) {
+    const int c = stack.top();
+    stack.pop();
+    return c;
+  }
 };
