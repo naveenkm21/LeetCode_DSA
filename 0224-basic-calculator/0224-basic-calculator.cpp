@@ -4,7 +4,7 @@ class Solution {
     int ans = 0;
     int num = 0;
     int sign = 1;
-    stack<int> stack{{sign}};  // stack.top() := the current environment's sign
+    stack<int> stack{{sign}};  
 
     for (const char c : s)
       if (isdigit(c))
