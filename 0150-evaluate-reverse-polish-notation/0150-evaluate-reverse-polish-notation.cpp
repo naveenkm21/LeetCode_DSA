@@ -1,7 +1,7 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        vector<int> st;  // use vector as a stack
+        vector<int> st;  
 
         for (const string& token : tokens) {
             if (token.size() == 1 && string("+-*/").find(token) != string::npos) {
