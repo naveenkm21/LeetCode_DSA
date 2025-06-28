@@ -277,11 +277,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
