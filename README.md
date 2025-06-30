@@ -100,6 +100,7 @@
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
@@ -303,6 +304,7 @@
 | [0061-rotate-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
