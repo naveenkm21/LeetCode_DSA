@@ -38,6 +38,7 @@
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -80,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -107,6 +109,7 @@
 | [0290-word-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -119,6 +122,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -256,6 +260,7 @@
 | [0076-minimum-window-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
