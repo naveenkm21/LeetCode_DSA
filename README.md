@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -196,6 +197,7 @@
 | [0071-simplify-path](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
@@ -325,6 +327,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0437-path-sum-iii) |
@@ -357,6 +360,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0437-path-sum-iii) |
@@ -365,4 +369,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
