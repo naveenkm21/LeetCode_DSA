@@ -1,26 +1,33 @@
 class BSTIterator {
- public:
-  BSTIterator(TreeNode* root) {
-    inorder(root);
-  }
+private:
+    stack<TreeNode*> stk;
 
-  int next() {
-    return vals[i++];
-  }
+    // Helper to push all left nodes from current to the leftmost
+    void pushLeft(TreeNode* node) {
+        while (node != nullptr) {
+            stk.push(node);
+            node = node->left;
+        }
+    }
 
-  bool hasNext() {
-    return i < vals.size();
-  }
-
- private:
-  int i = 0;
-  vector<int> vals;
-
-  void inorder(TreeNode* root) {
-    if (root == nullptr)
-      return;
-    inorder(root->left);
-    vals.push_back(root->val);
-    inorder(root->right);
-  }
+public:
+    // Constructor: push all left children from root
+    BSTIterator(TreeNode* root) {
+        pushLeft(root);
+    }
+    
+    // Return the next smallest element
+    int next() {
+        TreeNode* node = stk.top();
+        stk.pop();
+        if (node->right) {
+            pushLeft(node->right);
+        }
+        return node->val;
+    }
+    
+    // Check if there's a next element
+    bool hasNext() {
+        return !stk.empty();
+    }
 };
