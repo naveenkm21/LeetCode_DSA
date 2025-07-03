@@ -153,6 +153,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
@@ -340,6 +341,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -354,6 +356,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -380,6 +383,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
