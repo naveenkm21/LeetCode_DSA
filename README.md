@@ -318,6 +318,7 @@
 | [0086-partition-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
@@ -332,6 +333,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -347,6 +349,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
@@ -359,6 +362,7 @@
 | [0101-symmetric-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -369,6 +373,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
