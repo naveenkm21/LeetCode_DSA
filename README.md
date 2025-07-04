@@ -17,6 +17,7 @@
 | [0055-jump-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -138,6 +139,7 @@
 | [0012-integer-to-roman](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
