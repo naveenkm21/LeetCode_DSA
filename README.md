@@ -144,6 +144,7 @@
 | [0048-rotate-image](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -232,6 +233,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0076-minimum-window-substring) |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -419,6 +422,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
