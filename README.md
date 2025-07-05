@@ -39,6 +39,7 @@
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -245,6 +246,7 @@
 | [0290-word-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0547-number-of-provinces) |
 ## Memoization
 |  |
@@ -382,6 +385,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
@@ -399,6 +403,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -445,7 +450,12 @@
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
