@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
@@ -443,6 +444,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
