@@ -128,6 +128,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -441,6 +442,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
