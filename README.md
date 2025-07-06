@@ -44,6 +44,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -301,6 +302,7 @@
 | [0054-spiral-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Enumeration
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
