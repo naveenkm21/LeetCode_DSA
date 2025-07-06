@@ -159,6 +159,7 @@
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -174,6 +175,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -323,6 +325,7 @@
 ## Memoization
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
