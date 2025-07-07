@@ -132,6 +132,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Divide and Conquer
@@ -223,6 +224,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
 | ------- |
@@ -388,6 +390,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Tree
 |  |
 | ------- |
@@ -526,4 +529,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
