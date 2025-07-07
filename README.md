@@ -217,6 +217,7 @@
 | [0155-min-stack](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Randomized
 |  |
@@ -240,11 +241,13 @@
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -504,4 +507,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
