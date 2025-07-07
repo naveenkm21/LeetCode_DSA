@@ -474,6 +474,7 @@
 | [0191-number-of-1-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search Tree
