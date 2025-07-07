@@ -187,6 +187,7 @@
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -274,6 +275,7 @@
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
+| [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
