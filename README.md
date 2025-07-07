@@ -114,6 +114,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
@@ -208,6 +209,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -364,6 +366,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -488,4 +491,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
