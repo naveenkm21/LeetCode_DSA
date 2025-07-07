@@ -44,6 +44,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -313,6 +314,7 @@
 | [0054-spiral-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Enumeration
 |  |
@@ -420,6 +422,7 @@
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
