@@ -169,6 +169,7 @@
 | [0013-roman-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0069-sqrtx) |
@@ -190,6 +191,7 @@
 | [0042-trapping-rain-water](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -301,6 +303,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Trie
 |  |
