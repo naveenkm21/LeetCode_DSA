@@ -63,6 +63,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Matrix
 |  |
 | ------- |
