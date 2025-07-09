@@ -62,6 +62,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2636-maximum-subsequence-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -90,6 +91,7 @@
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2636-maximum-subsequence-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -341,6 +344,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
