@@ -203,6 +203,7 @@
 | [0045-jump-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -298,6 +299,7 @@
 | [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
