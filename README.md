@@ -206,6 +206,7 @@
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -453,6 +454,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
