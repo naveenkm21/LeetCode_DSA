@@ -57,6 +57,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -340,6 +341,7 @@
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -359,6 +361,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 ## String Matching
 |  |
@@ -528,6 +531,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
