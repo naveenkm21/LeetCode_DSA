@@ -343,6 +343,7 @@
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
