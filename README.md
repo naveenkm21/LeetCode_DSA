@@ -112,6 +112,7 @@
 | [0125-valid-palindrome](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
@@ -168,6 +169,7 @@
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0205-isomorphic-strings) |
@@ -507,6 +509,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Heap (Priority Queue)
 |  |
