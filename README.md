@@ -95,6 +95,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -434,6 +436,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -709,6 +712,7 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Function
 |  |
 | ------- |
@@ -721,4 +725,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0149-max-points-on-a-line) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
