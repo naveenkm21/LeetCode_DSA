@@ -96,6 +96,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -437,6 +438,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -713,6 +715,7 @@
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Function
 |  |
 | ------- |
@@ -729,4 +732,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
