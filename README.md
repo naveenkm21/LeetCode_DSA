@@ -238,6 +238,7 @@
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -265,6 +266,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
@@ -739,4 +741,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
