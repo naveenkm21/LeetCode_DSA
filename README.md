@@ -140,6 +140,7 @@
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -184,6 +185,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1813-maximum-erasure-value) |
@@ -212,6 +214,7 @@
 | [0169-majority-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -239,6 +242,7 @@
 | [0231-power-of-two](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [1236-n-th-tribonacci-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -472,6 +476,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
