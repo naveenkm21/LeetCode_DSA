@@ -58,6 +58,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0772-construct-quad-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0772-construct-quad-tree) |
 | [0907-koko-eating-bananas](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0940-fruit-into-baskets) |
@@ -210,6 +211,7 @@
 | [0190-reverse-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0772-construct-quad-tree) |
 ## Counting
 |  |
 | ------- |
@@ -478,6 +480,7 @@
 | [0054-spiral-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -583,6 +586,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
