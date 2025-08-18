@@ -55,6 +55,7 @@
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -247,6 +248,7 @@
 | [0326-power-of-three](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
@@ -514,6 +516,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
