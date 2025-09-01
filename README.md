@@ -265,6 +265,7 @@
 | [1448-maximum-69-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
