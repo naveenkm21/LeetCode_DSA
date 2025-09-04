@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0045-jump-game-ii) |
@@ -179,6 +180,7 @@
 | [0013-roman-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0076-minimum-window-substring) |
@@ -502,6 +504,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -546,6 +549,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
