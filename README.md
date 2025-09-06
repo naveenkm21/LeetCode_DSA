@@ -109,6 +109,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -276,6 +277,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
@@ -744,6 +746,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search Tree
 |  |
 | ------- |
