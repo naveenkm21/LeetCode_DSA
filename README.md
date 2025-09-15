@@ -213,6 +213,7 @@
 | [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -437,6 +438,7 @@
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
