@@ -93,6 +93,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -221,6 +222,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -372,6 +374,7 @@
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 ## Randomized
 |  |
 | ------- |
@@ -448,6 +451,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3396-valid-word) |
@@ -618,6 +622,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2636-maximum-subsequence-score) |
@@ -811,6 +816,7 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Function
