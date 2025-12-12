@@ -408,6 +408,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [2487-remove-nodes-from-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -599,6 +601,7 @@
 | [0231-power-of-two](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
@@ -624,6 +627,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
