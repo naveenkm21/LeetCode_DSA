@@ -20,5 +20,5 @@ class MinStack {
   }
 
  private:
-  stack<pair<int, int>> stack;  // {x, min}
+  stack<pair<int, int>> stack; 
 };
