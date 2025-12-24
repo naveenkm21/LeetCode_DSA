@@ -86,6 +86,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -226,6 +227,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
@@ -463,6 +465,7 @@
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -827,6 +830,7 @@
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
 | [1377-frog-position-after-t-seconds](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
 | ------- |
@@ -891,4 +895,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
+## Topological Sort
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
