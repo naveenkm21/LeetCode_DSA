@@ -292,6 +292,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1448-maximum-69-number) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -331,6 +332,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -481,6 +483,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0062-unique-paths) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Trie
 |  |
@@ -691,6 +694,7 @@
 | [1377-frog-position-after-t-seconds](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -830,6 +834,7 @@
 | [0871-keys-and-rooms](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0871-keys-and-rooms) |
 | [1377-frog-position-after-t-seconds](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1377-frog-position-after-t-seconds) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Shortest Path
 |  |
@@ -898,5 +903,6 @@
 ## Topological Sort
 |  |
 | ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
