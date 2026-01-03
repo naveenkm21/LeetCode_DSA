@@ -332,6 +332,7 @@
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
