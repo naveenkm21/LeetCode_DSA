@@ -16,7 +16,7 @@ class Solution {
       }
       curr->next = new ListNode(carry % 10);
       carry /= 10;
-      curr = curr->next;
+      curr = curr
     }
 
     return dummy.next;
