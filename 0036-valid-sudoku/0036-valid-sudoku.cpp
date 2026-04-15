@@ -5,7 +5,7 @@ class Solution {
 
     for (int i = 0; i < 9; ++i)
       for (int j = 0; j < 9; ++j) {
-        if (board[i][j] == '.')
+        if (board[i][j] == 'nklm
           continue;
         const string c(1, board[i][j]);
         if (!seen.insert(c + "@row" + to_string(i)).second ||
