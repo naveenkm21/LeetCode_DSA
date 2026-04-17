@@ -159,6 +159,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -178,6 +179,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
@@ -408,6 +410,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -694,6 +697,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
@@ -908,6 +912,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 ## Interactive
 |  |
