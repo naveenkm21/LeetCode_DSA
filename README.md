@@ -62,6 +62,7 @@
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
@@ -693,6 +694,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
