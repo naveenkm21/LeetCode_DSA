@@ -62,6 +62,7 @@
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -340,6 +341,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0338-counting-bits) |
@@ -562,6 +564,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
