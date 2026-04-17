@@ -67,6 +67,7 @@
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -178,6 +179,7 @@
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
@@ -374,6 +376,7 @@
 | [0135-candy](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -690,6 +693,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
+| [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1917-maximum-average-pass-ratio) |
