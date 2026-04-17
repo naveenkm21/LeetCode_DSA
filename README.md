@@ -28,6 +28,7 @@
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -469,6 +470,7 @@
 | [0071-simplify-path](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0139-word-break) |
@@ -587,6 +589,7 @@
 | [0054-spiral-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0212-word-search-ii) |
@@ -637,6 +640,7 @@
 | [0046-permutations](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
@@ -737,6 +741,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0100-same-tree) |
