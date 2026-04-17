@@ -635,6 +635,7 @@
 | [0037-sudoku-solver](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0216-combination-sum-iii) |
