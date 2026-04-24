@@ -1,7 +1,7 @@
 class Solution {
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size(), n = obstacleGrid[0].size();
+        int m = obs(), n = obstacleGrid[0].size();
         vector<vector<int>> f(m, vector<int>(n, -1));
         auto dfs = [&](this auto&& dfs, int i, int j) {
             if (i >= m || j >= n || obstacleGrid[i][j]) {
