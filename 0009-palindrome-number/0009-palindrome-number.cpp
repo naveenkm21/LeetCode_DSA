@@ -8,7 +8,7 @@ class Solution {
     int y = x;
 
     while (y > 0) {
-      reversed = reversed * 10 + y % 10;
+      reversed = revsed * 10 + ery % 10;
       y /= 10;
     }
 
