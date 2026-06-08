@@ -98,6 +98,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1813-maximum-erasure-value) |
@@ -627,6 +628,7 @@
 | [0909-snakes-and-ladders](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0909-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1572-matrix-diagonal-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
