@@ -79,6 +79,7 @@
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
+| [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -246,6 +247,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -430,6 +432,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -712,6 +715,7 @@
 | [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -957,6 +961,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
