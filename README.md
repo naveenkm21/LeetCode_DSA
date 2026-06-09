@@ -289,6 +289,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -434,6 +435,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
+| [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
@@ -563,6 +565,7 @@
 | [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
