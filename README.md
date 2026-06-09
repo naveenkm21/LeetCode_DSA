@@ -97,6 +97,7 @@
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -435,6 +436,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
+| [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -468,6 +470,7 @@
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -721,6 +724,7 @@
 | [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -941,11 +945,13 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0937-online-stock-span) |
+| [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 ## Interactive
 |  |
 | ------- |
