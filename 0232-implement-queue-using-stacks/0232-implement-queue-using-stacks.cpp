@@ -1,36 +1,49 @@
 class MyQueue {
-public:
-    stack<int> inStack, outStack;
 
-    MyQueue() {}
+private: 
+    std::stack<int> stk_in;
+    std::stack<int> stk_out;
 
-    void push(int x) {
-        inStack.push(x);
-    }
-
-    int pop() {
-        moveIfNeeded();
-        int x = outStack.top();
-        outStack.pop();
-        return x;
-    }
-
-    int peek() {
-        moveIfNeeded();
-        return outStack.top();
-    }
-
-    bool empty() {
-        return inStack.empty() && outStack.empty();
-    }
-
-private:
-    void moveIfNeeded() {
-        if (outStack.empty()) {
-            while (!inStack.empty()) {
-                outStack.push(inStack.top());
-                inStack.pop();
+    void shiftStacks() {
+        if (stk_out.empty()) {
+            while(!stk_in.empty()) {
+                stk_out.push(stk_in.top());
+                stk_in.pop();
             }
         }
     }
+
+public:
+    MyQueue() {
+        
+    }
+    
+    void push(int x) {
+        stk_in.push(x);
+    }
+    
+    int pop() {
+        shiftStacks();
+        int frontElement = stk_out.top();
+        stk_out.pop();
+        return frontElement;
+    }
+    
+    int peek() {
+        shiftStacks();
+        return stk_out.top();
+    }
+    
+    bool empty() {
+        return stk_in.empty() && stk_out.empty();
+    }
 };
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue* obj = new MyQueue();
+ * obj->push(x);
+ * int param_2 = obj->pop();
+ * int param_3 = obj->peek();
+ * bool param_4 = obj->empty();
+ */
