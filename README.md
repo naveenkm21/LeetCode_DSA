@@ -321,6 +321,7 @@
 | [0326-power-of-three](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
 | [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0867-new-21-game) |
@@ -522,6 +523,7 @@
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
@@ -571,6 +573,7 @@
 | [0067-add-binary](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
