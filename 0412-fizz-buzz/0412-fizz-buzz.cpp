@@ -5,17 +5,28 @@ class Solution {
 public:
     std::vector<std::string> fizzBuzz(int n) {
         std::vector<std::string> result;
-        result.reserve(n); 
+        result.reserve(n); // Pre-allocate memory to avoid reallocations
+        
+        int fizzCounter = 1;
+        int buzzCounter = 1;
         
         for (int i = 1; i <= n; ++i) {
-            if (i % 3 == 0 && i % 5 == 0) {
+            if (fizzCounter == 3 && buzzCounter == 5) {
                 result.push_back("FizzBuzz");
-            } else if (i % 3 == 0) {
+                fizzCounter = 1;
+                buzzCounter = 1;
+            } else if (fizzCounter == 3) {
                 result.push_back("Fizz");
-            } else if (i % 5 == 0) {
+                fizzCounter = 1;
+                buzzCounter++;
+            } else if (buzzCounter == 5) {
                 result.push_back("Buzz");
+                fizzCounter++;
+                buzzCounter = 1;
             } else {
                 result.push_back(std::to_string(i));
+                fizzCounter++;
+                buzzCounter++;
             }
         }
         
