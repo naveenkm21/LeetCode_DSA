@@ -76,6 +76,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
@@ -196,6 +197,7 @@
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -252,6 +254,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0706-design-hashmap) |
