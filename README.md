@@ -331,6 +331,7 @@
 | [0342-power-of-four](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0507-perfect-number) |
 | [0679-24-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0867-new-21-game) |
