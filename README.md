@@ -488,6 +488,7 @@
 | [1472-design-browser-history](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1472-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -543,6 +544,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -586,6 +588,7 @@
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
