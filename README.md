@@ -138,6 +138,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -278,6 +279,7 @@
 | [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -306,6 +308,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
