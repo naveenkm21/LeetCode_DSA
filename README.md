@@ -119,6 +119,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -214,6 +215,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -311,6 +313,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1603-design-parking-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
