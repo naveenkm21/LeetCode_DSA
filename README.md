@@ -57,6 +57,7 @@
 | [0189-rotate-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -324,6 +325,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0268-missing-number) |
@@ -669,6 +671,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1042,4 +1045,8 @@
 | [0133-clone-graph](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0210-course-schedule-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
