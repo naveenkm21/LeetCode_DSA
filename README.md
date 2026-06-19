@@ -355,6 +355,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1448-maximum-69-number) |
+| [1492-the-kth-factor-of-n](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1492-the-kth-factor-of-n) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1062,4 +1063,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
