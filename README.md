@@ -82,6 +82,7 @@
 | [0435-non-overlapping-intervals](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0594-longest-harmonious-subsequence) |
