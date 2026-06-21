@@ -557,6 +557,7 @@
 | [0399-evaluate-division](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0459-repeated-substring-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0459-repeated-substring-pattern) |
 | [0709-to-lower-case](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0709-to-lower-case) |
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
@@ -600,6 +601,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0459-repeated-substring-pattern) |
 ## Simulation
 |  |
 | ------- |
