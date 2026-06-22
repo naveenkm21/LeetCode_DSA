@@ -1072,4 +1072,8 @@
 | ------- |
 | [0204-count-primes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1492-the-kth-factor-of-n) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
