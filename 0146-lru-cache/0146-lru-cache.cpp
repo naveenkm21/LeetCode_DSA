@@ -1,35 +1,48 @@
-#include <unordered_map>
-#include <list>
-
 class LRUCache {
-private:
-    int capacity;
-    std::list<std::pair<int, int>> dll; 
-    std::unordered_map<int, std::list<std::pair<int, int>>::iterator> cache;
-
-public:
-    LRUCache(int capacity) : capacity(capacity) {}
+  public:
     
-    int get(int key) {
-        if (cache.find(key) == cache.end()) return -1;
-        
-        dll.splice(dll.begin(), dll, cache[key]);
-        return cache[key]->second;
+    
+    int cap;
+    list<pair<int,int>> dll;
+    unordered_map<int,list<pair<int,int>>::iterator> mp;
+    
+    LRUCache(int capacity) {
+        cap = capacity;
     }
-    
-    void put(int key, int value) {
-        if (cache.find(key) != cache.end()) {
-            cache[key]->second = value;
-            dll.splice(dll.begin(), dll, cache[key]);
-            return;
-        }
+
+    int get(int key) {
         
-        if (cache.size() == capacity) {
-            cache.erase(dll.back().first);
+        if(mp.find(key) == mp.end())
+           return -1;
+           
+        
+        auto node = mp[key];
+        int value = node->second;
+        
+        dll.erase(node);
+        dll.push_front({key, value});
+        
+        mp[key] = dll.begin();
+        
+        return value;
+        
+    }
+
+        
+    void put(int key, int value) {
+        
+        if(mp.find(key) != mp.end()) {
+            dll.erase(mp[key]);
+        }
+        else if(dll.size() == cap){
+            auto last = dll.back();
+            mp.erase(last.first);
             dll.pop_back();
         }
         
-        dll.emplace_front(key, value);
-        cache[key] = dll.begin();
+        dll.push_front({key,value});
+        
+        mp[key] = dll.begin();
+        
     }
 };
