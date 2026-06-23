@@ -466,6 +466,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -500,6 +501,7 @@
 | [0155-min-stack](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0739-daily-temperatures) |
@@ -1041,6 +1043,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0918-maximum-sum-circular-subarray) |
