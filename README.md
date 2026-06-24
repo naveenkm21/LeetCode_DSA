@@ -74,6 +74,7 @@
 | [0268-missing-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0322-coin-change) |
@@ -184,6 +185,7 @@
 | [0189-rotate-array](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0392-is-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -635,6 +637,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0907-koko-eating-bananas) |
@@ -948,6 +951,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
