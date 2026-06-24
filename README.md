@@ -1092,4 +1092,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
