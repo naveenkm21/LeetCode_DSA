@@ -566,6 +566,7 @@
 | [0412-fizz-buzz](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0709-to-lower-case) |
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
