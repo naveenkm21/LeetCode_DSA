@@ -103,6 +103,7 @@
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
 | [1019-next-greater-node-in-linked-list](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1036-rotting-oranges](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1036-rotting-oranges) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1397-search-suggestions-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1397-search-suggestions-system) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
