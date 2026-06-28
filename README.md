@@ -572,6 +572,7 @@
 | [0459-repeated-substring-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0796-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -615,6 +616,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/naveenkm21/LeetCode_DSA/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
