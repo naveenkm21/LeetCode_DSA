@@ -146,6 +146,7 @@
 | [2553-total-cost-to-hire-k-workers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2636-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
+| [2965-find-missing-and-repeated-values](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -297,6 +298,7 @@
 | [2429-design-a-food-rating-system](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2689-rearranging-fruits) |
+| [2965-find-missing-and-repeated-values](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -372,6 +374,7 @@
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -701,6 +704,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/naveenkm21/LeetCode_DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2965-find-missing-and-repeated-values](https://github.com/naveenkm21/LeetCode_DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/naveenkm21/LeetCode_DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
